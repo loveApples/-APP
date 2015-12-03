@@ -1,0 +1,1 @@
+-[点击安装好123浏览器](itms-services:/?action=download-manifest&url=https://github.com/loveApples/-APP/blob/master/好123.ipa)
